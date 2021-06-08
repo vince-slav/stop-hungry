@@ -1,0 +1,23 @@
+body{
+    background-color: #FFFF00;
+    font-size: 40;
+    position: absolute; right: 0;
+    color: #0000CD;
+    font-family: fantasy;
+    
+ 
+}
+
+#frang{
+    position: absolute; left:0; top:0;
+    height: 20px;
+}
+
+#mot{
+    position: absolute; bottom: 0; left: 500;
+}
+
+#palav{
+    position: absolute; right: 0;
+
+}

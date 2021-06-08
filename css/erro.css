@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    
+}
+.vorsicht{
+   position: absolute; left: 450px;
+}
+
+.btn{
+    width: 150;
+    background-color: yellow;
+    color: violet;
+}

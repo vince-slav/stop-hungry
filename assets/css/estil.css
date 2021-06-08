@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: chartreuse;
+}
+.bot{
+    width: 200px;
+}
+   
+.pesq{
+    text-align: center;
+}
+.for{
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    
+
+}
+.pr{
+    width: 10px;
+}
+.bv{
+    width: 10px;
+}
+.texto{
+    text-align: center;
+
+}
+
+

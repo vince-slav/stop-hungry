@@ -1,0 +1,11 @@
+.btn{
+    width: 350px;
+    height: 130px;
+    background-color: yellow;
+    color:red;
+    position: absolute; left: 480px;
+                        bottom: 60px;
+    font-size: 25PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
