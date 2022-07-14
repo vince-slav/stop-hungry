@@ -62,7 +62,7 @@
                 <h3 class="text-warning text-center">Login</h3>
             </div>
             <div class="card-body">
-                <form>
+                <form method="POST" action="verifyUser.php" name="form-login">
                     <div class="form-group">
                         <label for="email">E-Mail</label>
                         <input type="email" class="form-control" name="email" id="email">
@@ -95,8 +95,6 @@
     </div>
 
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="../assets/js/vendor/jquery-2.2.4.min.js"></script>
     <script src="../assets/js/vendor/bootstrap-4.1.3.min.js"></script>
     <script src="../assets/js/vendor/wow.min.js"></script>
