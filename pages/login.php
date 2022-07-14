@@ -85,7 +85,7 @@
             </div>
             <div class="card-footer">
                 <div class="text-center">
-                    <a href="#" class="card-link small mt-3"><span class="text-warning font-weight-bold">minha senha</span></a>
+                    <a href="#" class="card-link small mt-3"><span class="text-warning font-weight-bold">esqueci minha senha</span></a>
                     <a href="cadastro.php" class="card-link small mt-3"><span class="text-warning font-weight-bold">não tenho cadastro</span></a>
                 </div>
             </div>

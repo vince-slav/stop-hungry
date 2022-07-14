@@ -123,18 +123,13 @@
                                     <input type="text" class="form-control" name="comp" id="comp">
                                 </div>
                             </div>
-
                             <button type="submit" class="btn btn-warning float-right"><span style="color: #fff;">Cadastrar</span></button>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
-
-    </div>
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
